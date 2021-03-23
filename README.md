@@ -1,6 +1,6 @@
-### Projeto_10
+### Landing Page Jogos
 
-O Projeto_10 foi desenvolvido para treinar minhas habilidades em HTML e CSS. É uma página para divulgação de jogos.
+O Landing Page Jogos foi desenvolvido para treinar minhas habilidades em HTML e CSS. É uma página para divulgação de jogos.
 
 ![Screenshot](Projeto10.gif)
 
